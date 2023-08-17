@@ -7,7 +7,7 @@ def main():
     st.sidebar.write("Final Project Fresh Graduate Academy Digitalent 2023 - Big Data Using Python")
     st.sidebar.image("assets/dts.png", width=250)
 
-    if choice == "Abstract":
+    if choice == "Abstracts":
         st.title("Abstract")
         st.write("Perkembangan ilmu pengetahuan dan teknologi dalam beberapa dekade terakhir telah membawa dampak signifikan dalam berbagai bidang kehidupan manusia, termasuk dalam pemahaman dan prediksi fenomena alam. Salah satu aspek penting dari fenomena alam adalah cuaca, yang memiliki peran vital dalam aktivitas manusia dan ekosistem. Curah hujan, sebagai salah satu elemen kunci dalam dinamika cuaca, memiliki dampak yang luas pada pertanian, lingkungan, ekonomi, serta kehidupan sehari-hari.")
         st.write("Negara Australia, dengan geografi yang luas dan keragaman ekosistemnya, sering kali menghadapi tantangan dalam mengelola dan merencanakan kegiatan yang terkait dengan curah hujan. Dalam konteks inilah pentingnya pengembangan model prediksi curah hujan yang akurat dan handal menjadi sangat mendasar. Dengan memiliki kemampuan untuk memprediksi curah hujan secara lebih tepat, berbagai sektor di negara Australia dapat mengambil langkah-langkah yang lebih efektif dalam merespons perubahan cuaca yang mungkin terjadi.")

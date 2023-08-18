@@ -5,6 +5,7 @@ def main():
     menu = ["Abstract", "Dataset", "Environment", "Research Step", "Conclusion", "Literature", "Author"]
     choice = st.sidebar.selectbox("Select Menu", menu)
     st.sidebar.write("Final Project Fresh Graduate Academy Digitalent 2023 - Big Data Using Python")
+    st.sidebar.write("Taofik Krisdiyanto (19566901160-24)")
     st.sidebar.image("assets/dts.png", width=250)
 
     if choice == "Abstract":
